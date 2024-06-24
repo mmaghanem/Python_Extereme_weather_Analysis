@@ -2,10 +2,10 @@
 The Extreme Weather Events Analysis Project! In This repository showcases the use of Python for data analysis and visualization to explore the impact of extreme weather events in the United States since 2000. We employ advanced data processing and analytical techniques to uncover trends, assess damages, and examine the most significant weather events.
 
 #### Table of Contents
-1. Introduction
-2. Project Components
-3. Python code overview
-4. Analysis and Insights
+1. [Introduction](#introduction)
+2. [Project Components](#project-components)
+3. [Python code overview](#python-code-overview)
+4. [Analysis and Insights](#analysis-and-Insights)
 
 ## Introduction
 This project utilize Python to Analyze 1.26 million records of NOAA data on U.S. extreme weather events since 2000, focusing on trends, property damage, and fatalities. Utilized advanced data cleaning, geospatial analysis, and inflation-adjusted economic assessment techniques to reveal increasing frequency and impact of severe weather.
