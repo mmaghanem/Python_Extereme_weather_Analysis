@@ -91,7 +91,6 @@ plt.title('Property Loss by State')
 
 **Reporting:**
 - Summarized the findings into detailed reports and presentations using the results from the Jupyter notebooks.
-Analysis and Insights
 
 ## Analysis and Insights:
 1. Property Loss Analysis:
