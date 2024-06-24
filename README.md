@@ -79,7 +79,7 @@ data.set_index('date').resample('M').mean()
 **Data Visualization:**
 - Created a range of visualizations using matplotlib and seaborn to represent findings visually.
 - Used plotly for interactive charts and maps to better engage with the data.
-```
+```python
 import matplotlib.pyplot as plt
 import seaborn as sns
 
