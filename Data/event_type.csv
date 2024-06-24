@@ -1,0 +1,58 @@
+EVENT_TYPE,EV_TYPE_GRP,Possibly Linked to Climate
+Thunderstorm Wind,Strong Wind,x
+Flash Flood,Flood/Rain,x
+Tornado,Tornado,x
+Flood,Flood/Rain,x
+Hail,Hail,x
+Lightning,Lightning,x
+High Wind,Strong Wind,x
+Wildfire,Fire,x
+Winter Storm,Winter,x
+Strong Wind,Strong Wind,x
+Tropical Storm,Hurricane,x
+Hurricane,Hurricane,x
+Heavy Snow,Winter,x
+Ice Storm,Winter,x
+Heavy Rain,Flood/Rain,x
+Hurricane (Typhoon),Hurricane,x
+Debris Flow,Flood/Rain,x
+Winter Weather,Winter,x
+Lake-Effect Snow,Winter,x
+Storm Surge/Tide,Hurricane,x
+Coastal Flood,Hurricane,x
+Blizzard,Winter,x
+Lakeshore Flood,Flood/Rain,x
+Dense Fog,Fog,x
+Extreme Cold/Wind Chill,Winter,x
+Dust Storm,Strong Wind,x
+High Surf,Hurricane,x
+Tropical Depression,Hurricane,x
+Waterspout,Tornado,x
+Cold/Wind Chill,Winter,x
+Sleet,Winter,x
+Marine Thunderstorm Wind,Strong Wind,x
+Frost/Freeze,Winter,x
+Tsunami,Tsunami,x
+Excessive Heat,Heat,x
+Avalanche,Heat,x
+Marine Strong Wind,Strong Wind,x
+Dust Devil,Strong Wind,x
+Drought,Heat,x
+Freezing Fog,Winter,x
+Heat,Heat,x
+Marine High Wind,Strong Wind,x
+Marine Hurricane/Typhoon,Hurricane,x
+Seiche,,
+Dense Smoke,Fire,x
+Sneakerwave,,
+Rip Current,,
+Funnel Cloud,,x
+Marine Dense Fog,,
+Marine Hail,,
+Astronomical Low Tide,,
+Marine Lightning,,
+Northern Lights,,
+Marine Tropical Storm,,
+Marine Tropical Depression,,
+Volcanic Ash,,
+Volcanic Ashfall,,
