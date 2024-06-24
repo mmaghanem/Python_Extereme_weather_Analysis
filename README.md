@@ -110,5 +110,3 @@ Analysis and Insights
 - Louisiana, Texas, and Arizona have the highest number of deaths from extreme weather events.
 - Detailed case studies on Hurricane Katrina and the 2011 Tornado Outbreak show the severe impact on human life and property.
 
-
-This map highlights the number of fatalities due to extreme weather events by state, indicating the areas most at risk.
