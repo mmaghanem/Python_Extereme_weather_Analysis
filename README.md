@@ -34,13 +34,13 @@ Compiled detailed reports and presentations to effectively communicate the insig
 ## Python code overview
 #### Data Collection and Exploration
 **Data Loading:** Utilized pandas to load CSV data files and inspect the dataset.
-```
+```python
 import pandas as pd
 data = pd.read_csv('event_type.csv')
 ```
 
 **Exploratory Data Analysis (EDA):** Conducted initial data exploration using pandas and numpy to understand distributions, missing values, and data types.
-```
+```python
 data.info()
 data.describe()
 ```
@@ -50,27 +50,27 @@ data.describe()
 - Managed missing values and handled duplicates to ensure data quality.
 - Converted categorical data into numerical formats where necessary.
 - Adjusted financial figures for inflation using U.S. Bureau of Labor Statistics data.
-```
+```python
 data['damage_property'] = data['damage_property'].str.replace('K', '000').astype(float)
 ```
 
 **Feature Engineering:**
 - Created new features such as event categories and combined related data for enhanced analysis.
-```
+```python
 data['event_group'] = data['event_type'].apply(lambda x: categorize_event(x))
 ```
 
 #### Advanced Data Analysis
 **Statistical Analysis:**
 Employed scipy and statsmodels for statistical analysis to explore correlations and trends.
-```
+```python
 from scipy import stats
 correlation = stats.pearsonr(data['property_loss'], data['fatalities'])
 ```
 
 **Time Series Analysis:**
 Analyzed trends over time using pandas time series functionality to detect changes in the frequency and impact of events.
-```
+```python
 data['date'] = pd.to_datetime(data[['year', 'month', 'day']])
 data.set_index('date').resample('M').mean()
 ```
