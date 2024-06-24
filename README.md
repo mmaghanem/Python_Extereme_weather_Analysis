@@ -93,7 +93,7 @@ plt.title('Property Loss by State')
 - Summarized the findings into detailed reports and presentations using the results from the Jupyter notebooks.
 Analysis and Insights
 
-## Key Findings:
+## Analysis and Insights:
 1. Property Loss Analysis:
 - Hurricanes have caused the highest property losses, with Hurricane Katrina being the most devastating event.
 - Rainstorms and strong winds are frequent but less financially destructive compared to hurricanes.
